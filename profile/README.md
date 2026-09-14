@@ -4,7 +4,11 @@ Github repository resmi yang dikelola langsung oleh Tim Rekasandi. Dibuat sejak 
 
 ## Tim Rekasandi
 
-- [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/efronpaduansi)
+- [Efron Paduansi](https://github.com/efronpaduansi)
+- [Gustam Mahendra](https://github.com/thenotoriousgustav)
+- [Ahmad A.R Habibi](https://github.com/aarhabibi)
+- [Fauzan](https://github.com/FauzanRepos)
+
 
 
 
