@@ -11,7 +11,7 @@ Github repository resmi yang dikelola langsung oleh Tim Rekasandi. Dibuat sejak 
 - Mella Sinta Dewi (Techincal Writter)
 - Nassrah Indah (Techincal Writter)
 
-## Ikuti Kami
+## ❤️ Ikuti Kami
 
 - Situs: [www.rekasandi.com](https://rekasandi.com)
 - IG: [@info.rekasandi](https://www.instagram.com/info.rekasandi)
