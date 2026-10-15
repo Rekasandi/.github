@@ -15,6 +15,6 @@ Github repository resmi yang dikelola langsung oleh Tim Rekasandi. Dibuat sejak 
 
 - Situs: [www.rekasandi.com](https://rekasandi.com)
 - IG: [@info.rekasandi](https://www.instagram.com/info.rekasandi)
-- Email: [info.rekasandi@gmail.com](mailto:info.rekasandi@gmail.com)
+- Email: [info.rekasandi@gmail.com](mailto:info@rekasandi.com)
 
 
